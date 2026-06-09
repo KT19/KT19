@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I'm a software engineer / researcher with a focus on:
-- **ML / AI Optimization** (JAX, Distributed Training, RL)
-- **Low-level Implementation** (C++, CUDA)
-- **Federated Learning**
+I'm a researcher and software engineer passionate about all aspects of computer science and software engineering!
+
+- **ML / AI Optimization**
+- **Low-level Implementation**
+- **Build AI Product from end-to-end**
+
 
 **Explore repositories**
 👉 [https://KT19.github.io](https://KT19.github.io)
